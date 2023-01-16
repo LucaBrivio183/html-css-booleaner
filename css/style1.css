@@ -21,6 +21,7 @@ article{
     margin-top: 5px;
     margin-bottom: 20px;
     font-size: 18px;
+    width: 80%;
 }
 
 /* title */
@@ -38,16 +39,6 @@ article{
     color: #30afe6;
 }
 /* /title */
-
-#timphoto1 {
-    width: 45%;
-    max-height: 329px;
-}
-
-#timphoto2 {
-    width: 45%;
-    max-height: 329px;
-}
 
 .photo {
     padding: 10px;
