@@ -1,16 +1,27 @@
 * {
-    margin: 0;
+    margin: 5px;
     padding: 0;
     box-sizing: border-box;
 }
 
 header {
-    height: 100px;
+    height: 150px;
     background-color: #4ea0ff;
     background-image: url(../img/pattern.png);
     background-position: center;
+    padding-left: 10px;
 }
 
 #logo {
     height: 100%;
 }
+
+
+.title h1 {
+    font-size: 70px;
+}
+
+.writer  {
+    color: #30afe6;
+}
+
