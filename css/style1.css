@@ -1,9 +1,8 @@
 * {
     margin: 5px;
-    padding: 0;
-    box-sizing: border-box;
 }
 
+/* header */
 header {
     height: 150px;
     background-color: #4ea0ff;
@@ -12,7 +11,63 @@ header {
     padding-left: 10px;
 }
 
+#logo {
+    height: 100%;
+}
+/* /header */
 
+/* body */
+body{
+    margin: 10px;
+}
+
+/* title */
+.title h1{
+    font-size: 70px;
+    margin-bottom: 5px;
+}
+
+.title h2{
+    margin-bottom: 5px;
+}
+
+.writer  {
+    color: #30afe6;
+}
+/* /title */
+
+.photo {
+    padding: 10px;
+}
+
+/* table */
+thead {
+    background-color: #20a9e5;
+    color: white;
+}
+
+.shortcol {
+    width: 24%;
+}
+
+.longcol {
+    width: 49%;
+}
+
+.odd {
+    background-color: #b1e5f2;
+}
+
+td {
+    padding: 0px;
+}
+/* /table */
+
+/* /body */
+
+
+
+/* footer */
 #footerimage1 {
     color: white;
     height: 200px;
@@ -30,20 +85,4 @@ header {
     background-size: contain;
 
 }
-
-#logo {
-    height: 100%;
-}
-
-
-.title h1 {
-    
-}
-
-.writer  {
-    color: #30afe6;
-}
-
-{
-  
-}
+/* /footer */
