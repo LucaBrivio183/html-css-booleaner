@@ -12,6 +12,25 @@ header {
     padding-left: 10px;
 }
 
+
+#footerimage1 {
+    color: white;
+    height: 200px;
+    background-image: url(../img/monitor.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+
+}
+
+#footerimage2 {
+    color: white;
+    height: 200px;
+    background-image: url(../img/graph.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+
+}
+
 #logo {
     height: 100%;
 }
@@ -25,6 +44,6 @@ header {
     color: #30afe6;
 }
 
-p{
+{
   
 }
